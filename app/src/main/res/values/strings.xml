@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercicio06</string>
+    <string name="aluno">Aluno</string>
+    <string name="professor">Professor</string>
+    <string name="externo">Externo</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="bem_vindo_professor">Bem Vindo Professor</string>
+    <string name="digite_o_siape">Digite o SIAPE</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="bem_vindo_aluno">Bem Vindo Aluno</string>
+    <string name="digite_a_matricula">Digite a Matricula</string>
+    <string name="digite_o_email">Digite o Email</string>
+    <string name="bem_vindo_externo">Bem Vindo Externo</string>
+</resources>
